@@ -1,6 +1,6 @@
 {
-   "1":{
-      "Nanggroe Aceh Darussalam":[
+   "1": {
+      "Nanggroe Aceh Darussalam": [
          "Kota Langsa",
          "Kota Lhokseumawe",
          "Kota Sabang",
@@ -24,8 +24,8 @@
          "Kab. Aceh Selatan"
       ]
    },
-   "2":{
-      "Sumatera Utara":[
+   "2": {
+      "Sumatera Utara": [
          "Kota Padang Sidempuan",
          "Kota Tebing Tinggi",
          "Kota Binjai",
@@ -53,8 +53,8 @@
          "Kab. Tapanuli Tengah"
       ]
    },
-   "3":{
-      "Sumatera Barat":[
+   "3": {
+      "Sumatera Barat": [
          "Kota Pariaman",
          "Kota Payakumbuh",
          "Kota Bukittinggi",
@@ -76,8 +76,8 @@
          "Kab.pesisir Selatan"
       ]
    },
-   "4":{
-      "Riau":[
+   "4": {
+      "Riau": [
          "Kota Dumai",
          "Kota Pekan Baru",
          "Kab. Kuantan Singingi",
@@ -91,8 +91,8 @@
          "Kab. Kampar"
       ]
    },
-   "5":{
-      "Jambi":[
+   "5": {
+      "Jambi": [
          "Kab. Kerinci",
          "Kab. Tebo",
          "Kab. Bungo",
@@ -100,14 +100,14 @@
          "Kab. Tanjung Jabung Barat",
          "Kab. Muaro Jambi",
          {
-            "Kab. Batanghari":[
+            "Kab. Batanghari": [
                "Mendalo"
             ]
          },
          "Kab. Sarolangun",
          "Kab. Merangin",
          {
-            "Kota Jambi":[
+            "Kota Jambi": [
                "Selamat",
                "Pematang Sulur",
                "Simpang Empat Sipin",
@@ -173,8 +173,8 @@
          }
       ]
    },
-   "6":{
-      "Sumatera Selatan":[
+   "6": {
+      "Sumatera Selatan": [
          "Kota Prabumulih",
          "Kota Lubuk Linggau",
          "Kota Pagar Alam",
@@ -191,8 +191,8 @@
          "Kab. Ogan Komering Ulu "
       ]
    },
-   "7":{
-      "Bengkulu":[
+   "7": {
+      "Bengkulu": [
          "Kota Bengkulu",
          "Kab. Kepahiang ",
          "Kab. Lebong ",
@@ -204,8 +204,8 @@
          "Kab. Bengkulu Selatan"
       ]
    },
-   "8":{
-      "Lampung":[
+   "8": {
+      "Lampung": [
          "Kota Metro",
          "Kota Bandar Lampung",
          "Kab. Way Kanan",
@@ -218,8 +218,8 @@
          "Kab. Lampung Selatan"
       ]
    },
-   "9":{
-      "Kep Bangka Belitung":[
+   "9": {
+      "Kep Bangka Belitung": [
          "Kota Pangkal Pinang",
          "Kab. Bangka Timur",
          "Kab. Bangka Barat",
@@ -229,8 +229,8 @@
          "Kab. Bangka"
       ]
    },
-   "10":{
-      "Kep Riau":[
+   "10": {
+      "Kep Riau": [
          "Kota Tanjung Pinang",
          "Kota Batam",
          "Kab. Lingga ",
@@ -239,8 +239,8 @@
          "Kab. Kepulauan Riau "
       ]
    },
-   "11":{
-      "Dki Jakarta":[
+   "11": {
+      "Dki Jakarta": [
          "Kodya Jakarta Timur",
          "Kodya Jakarta Selatan",
          "Kodya Jakarta Barat",
@@ -249,8 +249,8 @@
          "Kab.adm.kep.seribu"
       ]
    },
-   "12":{
-      "Jawa Barat":[
+   "12": {
+      "Jawa Barat": [
          "Kota Banjar",
          "Kota Tasikmalaya",
          "Kota Cimahi",
@@ -278,31 +278,31 @@
          "Kab. Bogor"
       ]
    },
-   "13":{
-      "Jawa Tengah":[
+   "13": {
+      "Jawa Tengah": [
          "Kota Tegal",
          "Kota Pekalongan",
          {
-         "Kota Semarang":[
-            "Kec. Tugu",
-            "Kec. Ngaliyan",
-            "Kec. Mijen",
-            "Kec. Gunung Pati",
-            "Kec. Semarang Barat",
-            "Kec. Semarang Utara",
-            "Kec. Genuk",
-            "Kec. Pedurungan",
-            "Kec. Gayamsari",
-            "Kec. Semarang Timur",
-            "Kec. Semarang Tengah",
-            "Kec. Semarang Selatan",
-            "Kec. Gajah Mungkur",
-            "Kec. Candisari",
-            "Kec. Tembalang",
-            "Kec. Banyumanik"
-           ]
-         },    
-         
+            "Kota Semarang": [
+               "Kec. Tugu",
+               "Kec. Ngaliyan",
+               "Kec. Mijen",
+               "Kec. Gunung Pati",
+               "Kec. Semarang Barat",
+               "Kec. Semarang Utara",
+               "Kec. Genuk",
+               "Kec. Pedurungan",
+               "Kec. Gayamsari",
+               "Kec. Semarang Timur",
+               "Kec. Semarang Tengah",
+               "Kec. Semarang Selatan",
+               "Kec. Gajah Mungkur",
+               "Kec. Candisari",
+               "Kec. Tembalang",
+               "Kec. Banyumanik"
+            ]
+         },
+
          "Kota Salatiga",
          "Kota Surakarta",
          "Kota Magelang",
@@ -310,25 +310,25 @@
          "Kab. Tegal",
          "Kab. Pemalang",
          "Kab. Pekalongan",
-		 {
-		 "Kab. Batang" : [
-		    "Kec. Wonotunggal",
-			"Kec. Bandar",
-			"Kec. Blado",
-			"Kec. Reban",
-			"Kec. Bawang",
-			"Kec. Tersono",
-			"Kec. Gringsing",
-			"Kec. Limpung",
-			"Kec. Subah",
-			"Kec. Tulis",
-			"Kec. Batang",
-			"Kec. Warungasem",
-			"Kec. Kandeman",
-			"Kec. Pecalungan",
-			"Kec. Banyuputih"
-		 ]
-		 },
+         {
+            "Kab. Batang": [
+               "Kec. Wonotunggal",
+               "Kec. Bandar",
+               "Kec. Blado",
+               "Kec. Reban",
+               "Kec. Bawang",
+               "Kec. Tersono",
+               "Kec. Gringsing",
+               "Kec. Limpung",
+               "Kec. Subah",
+               "Kec. Tulis",
+               "Kec. Batang",
+               "Kec. Warungasem",
+               "Kec. Kandeman",
+               "Kec. Pecalungan",
+               "Kec. Banyuputih"
+            ]
+         },
          "Kab. Kendal",
          "Kab. Temanggung",
          "Kab. Semarang",
@@ -337,25 +337,25 @@
          "Kab. Kudus",
          "Kab. Pati",
          "Kab. Rembang",
-		 {
-		 "Kab. Blora" : [
-		    "Kec. Blora",
-			"Kec. Jepon",
-			"Kec. Bogorejo",
-			"Kec. Jiken",
-			"Kec. Sambong",
-			"Kec. Cepu",
-			"Kec. Kedungtuban",
-			"Kec. Kradenan",
-			"Kec. Randublatung",
-			"Kec. Jati",
-			"Kec. Banjarejo",
-			"Kec. Tunjungan",
-			"Kec. Japah",
-			"Kec. Ngawen",
-			"Kec. Todanan",
-		 ]
-		 },
+         {
+            "Kab. Blora": [
+               "Kec. Blora",
+               "Kec. Jepon",
+               "Kec. Bogorejo",
+               "Kec. Jiken",
+               "Kec. Sambong",
+               "Kec. Cepu",
+               "Kec. Kedungtuban",
+               "Kec. Kradenan",
+               "Kec. Randublatung",
+               "Kec. Jati",
+               "Kec. Banjarejo",
+               "Kec. Tunjungan",
+               "Kec. Japah",
+               "Kec. Ngawen",
+               "Kec. Todanan"
+            ]
+         },
          "Kab. Grobogan",
          "Kab. Sragen",
          "Kab. Karanganyar",
@@ -369,31 +369,31 @@
          "Kab. Kebumen",
          "Kab. Banjarnegara",
          "Kab. Purbalingga",
-		 {
-		 "Kab. Banyumas" : [
-			"Kec. Patikraja",
-			"Kec. Kebasen",
-			"Kec. Sokaraja",
-			"Kec. Sumpiuh",
-			"Kec. Tambak",
-			"Kec. Gumelar",
-			"Kec. Pekuncen",
-			"Kec. Jatilawang",
-			"Kec. Sumbang",
-			"Kec. Baturraden",
-			"Kec. Wangon",
-			"Kec. Somagede",
-			"Kec. Ajibarang",
-			"Kec. Karang Lewas",
-			"Kec. Kembaran",
-			"Kec. Kalibagor"
-		 ]
-		 },
+         {
+            "Kab. Banyumas": [
+               "Kec. Patikraja",
+               "Kec. Kebasen",
+               "Kec. Sokaraja",
+               "Kec. Sumpiuh",
+               "Kec. Tambak",
+               "Kec. Gumelar",
+               "Kec. Pekuncen",
+               "Kec. Jatilawang",
+               "Kec. Sumbang",
+               "Kec. Baturraden",
+               "Kec. Wangon",
+               "Kec. Somagede",
+               "Kec. Ajibarang",
+               "Kec. Karang Lewas",
+               "Kec. Kembaran",
+               "Kec. Kalibagor"
+            ]
+         },
          "Kab. Cilacap"
       ]
    },
-   "14":{
-      "Di Jogjakarta":[
+   "14": {
+      "Di Jogjakarta": [
          "Kota Yogyakarta",
          "Kab. Sleman",
          "Kab. Gunung Kidul",
@@ -401,8 +401,8 @@
          "Kab. Kulon Progo"
       ]
    },
-   "15":{
-      "Jawa Timur":[
+   "15": {
+      "Jawa Timur": [
          "Batu",
          "Kota Surabaya",
          "Kota Madiun",
@@ -432,33 +432,33 @@
          "Kab. Situbondo",
          "Kab. Bondowoso",
          {
-		 "Kab. Banyuwangi":[
-			"Kec. Pesanggaran",
-			"Kec. Bangorejo",
-			"Kec. Purwoharjo",
-			"Kec. Tegaldlimo",
-			"Kec. Muncar",
-			"Kec. Cluring",
-			"Kec. Gambiran",
-			"Kec. Srono",
-			"Kec. Genteng",
-			"Kec. Glenmore",
-			"Kec. Kalibaru",
-			"Kec. Singojuruh",
-			"Kec. Rogojampi",
-			"Kec. Kabat",
-			"Kec. Glagah",
-			"Kec. Banyuwangi",
-			"Kec. Giri",
-			"Kec. Wongsorejo",
-			"Kec. Songgon",
-			"Kec. Sempu",
-			"Kec. Kalipuro",
-			"Kec. Siliragung",
-			"Kec. Tegalsari",
-			"Kec. Licin"
-			]
-		 },
+            "Kab. Banyuwangi": [
+               "Kec. Pesanggaran",
+               "Kec. Bangorejo",
+               "Kec. Purwoharjo",
+               "Kec. Tegaldlimo",
+               "Kec. Muncar",
+               "Kec. Cluring",
+               "Kec. Gambiran",
+               "Kec. Srono",
+               "Kec. Genteng",
+               "Kec. Glenmore",
+               "Kec. Kalibaru",
+               "Kec. Singojuruh",
+               "Kec. Rogojampi",
+               "Kec. Kabat",
+               "Kec. Glagah",
+               "Kec. Banyuwangi",
+               "Kec. Giri",
+               "Kec. Wongsorejo",
+               "Kec. Songgon",
+               "Kec. Sempu",
+               "Kec. Kalipuro",
+               "Kec. Siliragung",
+               "Kec. Tegalsari",
+               "Kec. Licin"
+            ]
+         },
          "Kab. Jember",
          "Kab. Lumajang",
          "Kab. Malang",
@@ -470,8 +470,8 @@
          "Kab. Pacitan"
       ]
    },
-   "16":{
-      "Banten":[
+   "16": {
+      "Banten": [
          "Kota Cilegon",
          "Kota Tangerang",
          "Kab. Serang",
@@ -480,8 +480,8 @@
          "Kab. Pandeglang"
       ]
    },
-   "17":{
-      "Bali":[
+   "17": {
+      "Bali": [
          "Kota Denpasar",
          "Kab. Buleleng",
          "Kab. Karangasem",
@@ -493,8 +493,8 @@
          "Kab. Jembarana"
       ]
    },
-   "18":{
-      "Nusa Tenggara Barat":[
+   "18": {
+      "Nusa Tenggara Barat": [
          "Kota Bima",
          "Kota Mataram",
          "Kab. Sumbawa Barat",
@@ -506,8 +506,8 @@
          "Kab. Lombok Barat"
       ]
    },
-   "19":{
-      "Nusa Tenggara Timur":[
+   "19": {
+      "Nusa Tenggara Timur": [
          "Kota Kupang",
          "Kab. Manggarai Barat",
          "Kab. Rote Ndao",
@@ -526,8 +526,8 @@
          "Kab. Kupang"
       ]
    },
-   "20":{
-      "Kalimantan Barat":[
+   "20": {
+      "Kalimantan Barat": [
          "Kota Singkawang",
          "Kota Pontianak",
          "Kab. Sekadau ",
@@ -542,8 +542,8 @@
          "Kab. Sambas"
       ]
    },
-   "21":{
-      "Kalimantan Tengah":[
+   "21": {
+      "Kalimantan Tengah": [
          "Kota Palangkaraya",
          "Kab. Barito Timur",
          "Kab. Murung Raya",
@@ -560,8 +560,8 @@
          "Kab. Kotawaringin Barat"
       ]
    },
-   "22":{
-      "Kalimanta Selatan":[
+   "22": {
+      "Kalimanta Selatan": [
          "Kota Banjarbaru",
          "Kota Banjarmasin",
          "Kab. Balangan",
@@ -577,8 +577,8 @@
          "Kab. Tanah Laut"
       ]
    },
-   "23":{
-      "Kalimantan Timur":[
+   "23": {
+      "Kalimantan Timur": [
          "Kota Bontang",
          "Kota Tarakan",
          "Kota Samarinda",
@@ -594,8 +594,8 @@
          "Kab. Pasir"
       ]
    },
-   "24":{
-      "Sulawesi Utara":[
+   "24": {
+      "Sulawesi Utara": [
          "Kota Tomohon",
          "Kota Bitung",
          "Kota Manado",
@@ -607,8 +607,8 @@
          "Kab. Bolaang Mangondow"
       ]
    },
-   "25":{
-      "Sulawesi Tengah":[
+   "25": {
+      "Sulawesi Tengah": [
          "Kota Palu",
          "Kab. Tojo Una Una",
          "Kab. Parigi Moutong",
@@ -621,8 +621,8 @@
          "Kab. Banggai"
       ]
    },
-   "26":{
-      "Sulawesi Selatan":[
+   "26": {
+      "Sulawesi Selatan": [
          "Kota Palopo",
          "Kota Pare Pare",
          "Kota Makasar",
@@ -648,8 +648,8 @@
          "Kab. Selayar"
       ]
    },
-   "27":{
-      "Sulawesi Tenggara":[
+   "27": {
+      "Sulawesi Tenggara": [
          "Kota Bau Bau",
          "Kota Kendari",
          "Kab. Kolaka Utara",
@@ -662,9 +662,8 @@
          "Kab. Kolaka"
       ]
    },
-   "28":{
-      "Gorontalo ":[
-         {
+   "28": {
+      "Gorontalo ": [{
             "Kota Gorontalo": [
                "Kota Selatan",
                "Kota Utara",
@@ -767,8 +766,8 @@
          }
       ]
    },
-   "29":{
-      "Sulawesi Barat":[
+   "29": {
+      "Sulawesi Barat": [
          "Kab. Majene",
          "Kab. Polowali Mamasa",
          "Kab. Mamasa",
@@ -776,8 +775,8 @@
          "Kab. Mamuju Utara"
       ]
    },
-   "30":{
-      "Maluku":[
+   "30": {
+      "Maluku": [
          "Kota Ambon",
          "Kab. Kepulauan Aru",
          "Kab. Seram Bagian Barat ",
@@ -788,8 +787,8 @@
          "Kab. Maluku Tengah "
       ]
    },
-   "31":{
-      "Maluku Utara":[
+   "31": {
+      "Maluku Utara": [
          "Kota Tidore Kepulauan",
          "Kota Ternate",
          "Kab. Halmahera Timur",
@@ -800,8 +799,8 @@
          "Kab. Halmahera Barat"
       ]
    },
-   "32":{
-      "Papua":[
+   "32": {
+      "Papua": [
          "Kota Jayapura",
          "Kab. Supiori",
          "Kab. Asmat",
@@ -824,8 +823,8 @@
          "Kab. Merauke"
       ]
    },
-   "33":{
-      "Papua Barat":[
+   "33": {
+      "Papua Barat": [
          "Kota Sorong",
          "Kab. Kaima",
          "Kab. Teluk Wondama",
